@@ -1,0 +1,22 @@
+{
+  "name": "docker-security-project",
+  "version": "1.0.0",
+  "description": "Enterprise Docker Security and Optimization Demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": [
+    "docker",
+    "security",
+    "express",
+    "nodejs",
+    "devops"
+  ],
+  "author": "Madhuri Chennupati",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
