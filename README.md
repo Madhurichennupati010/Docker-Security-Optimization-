@@ -106,7 +106,7 @@ node-secure
 
 | Feature | Insecure Image | Secure Image |
 |----------|----------------|--------------|
-| Base Image | `node:18` | `node:20-alpine` |
+| Base Image | `node:18` | `node:22-alpine` |
 | Multi-stage Build | ❌ No | ✅ Yes |
 | Non-root User | ❌ No | ✅ Yes |
 | Image Size | ~1.09 GB | ~140 MB |
